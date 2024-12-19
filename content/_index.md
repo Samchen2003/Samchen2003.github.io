@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research interest generally lies in trustworthy machine learning, particularly within the domains of computer vision and natural language processing. I am deeply committed to advancing generative models, such as diffusion models and large language models (LLMs), while addressing critical concerns surrounding safety, fairness, and ethical deployment. My ultimate goal is to develop multimodal models that are not only powerful in task-solving but also reliable and safe for widespread use.
         
         Please reach out to collaborate 😃
     design:
