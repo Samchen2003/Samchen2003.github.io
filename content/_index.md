@@ -39,7 +39,7 @@ sections:
         
         My ultimate goal is to develop multimodal models that are not only powerful in task-solving but also reliable and safe for widespread use.
         
-        If you are interested in my work, please reach out to collaborate 😃
+        If you are interested in my work, please reach out😃
     design:
       columns: '1'
   # - block: collection
