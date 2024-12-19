@@ -71,7 +71,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng in Computer Science and Engineering (3.8/4.0), 2025 (Expected)
+  - area: BEng in Computer Science and Engineering (3.8/4.0), 2025
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2021-09-01
     date_end: 2025-06-01

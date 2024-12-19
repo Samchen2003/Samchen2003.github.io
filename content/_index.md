@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interest generally lies in trustworthy machine learning, particularly within the domains of computer vision and natural language processing. I am deeply committed to advancing generative models, such as diffusion models and large language models (LLMs), while addressing critical concerns surrounding safety, fairness, and ethical deployment. My ultimate goal is to develop multimodal models that are not only powerful in task-solving but also reliable and safe for widespread use.
+        My research interest generally lies in trustworthy machine learning, particularly within the domains of computer vision and natural language processing. I am deeply committed to advancing generative models, such as diffusion models and large language models (LLMs), while addressing critical concerns surrounding safety, fairness, and ethical deployment. 
         
-        Please reach out to collaborate 😃
+        My ultimate goal is to develop multimodal models that are not only powerful in task-solving but also reliable and safe for widespread use.
+        
+        If you are interested in my work, please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
@@ -52,6 +54,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
