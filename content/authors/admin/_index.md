@@ -11,7 +11,7 @@ last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergrad student majoring in Computer Science
+role: Undergraduate in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Samchen2003
   - icon: brands/linkedin
-    url: www.linkedin.com/in/yupeng-chen-107b732b1
+    url: https://www.linkedin.com/in/yupeng-chen-107b732b1/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=0-KiZZgAAAAJ&hl=en
 
@@ -71,7 +71,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng Computer Science and Engineering
+  - area: BEng in Computer Science and Engineering (3.8/4.0), 2025 (Expected)
     institution: The Chinese University of Hong Kong, Shenzhen
     date_start: 2021-09-01
     date_end: 2025-06-01
@@ -79,7 +79,7 @@ education:
       GPA: 3.8/4.0
       Advisors: Prof. Baoyuan Wu, Prof. Hongyuan Zha
       
-  - area: Visiting Student
+  - area: Visiting Student, 2023-2024
     institution: University of Oxford
     date_start: 2023-10-02
     date_end: 2024-06-30
@@ -188,4 +188,7 @@ education:
 
 ## About Me
 
-Yupeng Chen is currently an undergraduate student majoring in computer science at The Chinese University of Hong Kong, Shenzhen. His research interests include Trustworthy Machine Learning, Computer Vision and Multimodal Learning. He was a visiting student at Worcester College, University of Oxford from 2023 to 2024. Yupeng currently serves as a research assistant at Prof. Baoyuan Wu's lab at CUHK-Shenzhen, leading a project on multimodal deepfake dataset.
+I am currently a final-year undergraduate student majoring in computer science at The Chinese University of Hong Kong, Shenzhen. My research interests include Trustworthy Machine Learning, Computer Vision and Multimodal Learning. I was a visiting student at Worcester College, University of Oxford from 2023 to 2024, tutored by Dr. Qian Xie. From March 2024, I have served as a Research Assistant at Prof. Baoyuan Wu's lab at CUHK-Shenzhen, leading a project on multimodal deepfake detection.
+Note: A special thank to Dr. Qian Xie, who led me onto the path of research.
+
+
