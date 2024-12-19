@@ -188,7 +188,7 @@ education:
 
 ## About Me
 
-I am currently a final-year undergraduate student majoring in computer science at The Chinese University of Hong Kong, Shenzhen. My research interests include Trustworthy Machine Learning, Computer Vision and Multimodal Learning. I was a visiting student at Worcester College, University of Oxford from 2023 to 2024, tutored by Dr. Qian Xie. From March 2024, I have served as a Research Assistant at Prof. Baoyuan Wu's lab at CUHK-Shenzhen, leading a project on multimodal deepfake detection.
+I am currently a final-year undergraduate student majoring in computer science at The Chinese University of Hong Kong, Shenzhen. My research interests include Trustworthy Machine Learning, Computer Vision and Multimodal Learning. I was a visiting student at Worcester College, University of Oxford from 2023 to 2024, tutored by Dr. Qian Xie. From March 2024, I have served as a Research Assistant at Prof. Baoyuan Wu's lab at CUHK-Shenzhen, focusing on multimodal deepfake detection.
 
 Note: A special thank to Dr. Qian Xie, who led me onto the path of research.
 
