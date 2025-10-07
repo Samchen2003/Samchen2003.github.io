@@ -22,4 +22,4 @@ I am a DPhil student at Torr Vision Group, University of Oxford, supervised by D
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
