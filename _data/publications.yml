@@ -1,7 +1,7 @@
 main:
 
   - title: DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection
-    authors: Kangran Zhao*, <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/pdf/2306.00988.pdf
