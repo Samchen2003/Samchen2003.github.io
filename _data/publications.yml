@@ -1,7 +1,7 @@
 main:
 
   - title: DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection
-    authors: Kangran Zhao*, <strong>Yupeng Chen*<strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
+    authors: Kangran Zhao*, <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
     conference_short: Under Review
     conference: Under Review
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -11,14 +11,14 @@ main:
     # notes: Early Accept
 
   - title: EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models
-    authors: <strong>Yupeng Chen<strong>, Penglin Chen, Xiaoyu Zhang, Yixian Huang, Qian Xie
+    authors: <strong>Yupeng Chen</strong>, Penglin Chen, Xiaoyu Zhang, Yixian Huang, Qian Xie
     conference_short: AAAI
     conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33754
     image: ./assets/img/aaai25.png
 
   - title: Beyond English: Unveiling Multilingual Bias in LLM Copyright Compliance
-    authors: <strong>Yupeng Chen*<strong>, Xiaoyu Zhang*, Yixian Huang, Qian Xie (*Equal Contribution)
+    authors: <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yixian Huang, Qian Xie (*Equal Contribution)
     conference_short: Preprint
     conference: Preprint, 2025.
     pdf: https://arxiv.org/pdf/2503.05713?
