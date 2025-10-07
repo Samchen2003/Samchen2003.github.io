@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a DPhil student at Torr Vision Group, University of Oxford, supervised by Dr. Adel Bibi and Prof. Philip Torr. Previsouly, I received my B.Eng. in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen (graduating top 2%), where I was supervised by Prof. Baoyuan Wu. I also spent a wonderful year as a visiting student at Oxford in Year 3, working closely with Dr. Qian Xie.
+I am a DPhil student at Torr Vision Group, University of Oxford, supervised by Dr. Adel Bibi and Prof. Philip Torr. Previsouly, I received my B.Eng. in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen (graduating top 2%), where I was supervised by Prof. Baoyuan Wu. I also spent a wonderful year as a visiting student at Oxford in Year 3, working closely with Dr. Qian Xie. My research interest generally lies in Trustworthy AI.
 
 ## Research Interests
 
