@@ -12,18 +12,13 @@ main:
     conference_short: AAAI
     conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33754
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/aaai25.png
-    notes: Early Accept
+
 
   - title: "Beyond English: Unveiling Multilingual Bias in LLM Copyright Compliance"
     authors: <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yixian Huang, Qian Xie (*Equal Contribution)
     conference_short: Preprint
     conference: Preprint, 2025.
     pdf: https://arxiv.org/pdf/2503.05713
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/preprint.png
-    notes: Early Accept
 
