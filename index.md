@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a DPhil student at Torr Vision Group, University of Oxford, supervised by Dr. Adel Bibi and Prof. Philip Torr. Previsouly, I received my B.Eng. in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen, where I was supervised by Prof. Baoyuan Wu.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Agentic AI Safety:** hijacking, defenses, and evaluation
+- **Deepfake Detection:** multimodal, explainable, and evolvable
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2025]** I start my DPhil in Engineering Science at TVG.
+- **[Jun. 2025]** I receive a one-year scholarship from SUISF.
+- **[May. 2025]** I graduated from CUHK-Shenzhen with GPA ranking 2%.
+- **[Jan. 2025]** I receive AAAI 2025 Student Scholarship ($2000) to attend AAAI 2025.
+- **[Dec. 2024]** Our paper about benchmarking video editing models is accepted to AAAI 2025.
+
 
 {% include_relative _includes/publications.md %}
 
