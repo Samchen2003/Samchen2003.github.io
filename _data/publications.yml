@@ -4,11 +4,8 @@ main:
     authors: Kangran Zhao*, <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
     conference_short: Under Review
     conference: Under Review
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/dfbench.png
-    notes: Early Accep
+
     
   - title: "EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models"
     authors: <strong>Yupeng Chen</strong>, Penglin Chen, Xiaoyu Zhang, Yixian Huang, Qian Xie
