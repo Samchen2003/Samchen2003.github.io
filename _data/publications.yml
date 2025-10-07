@@ -8,8 +8,8 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/dfbench.png
-    notes: Early Accept
-
+    notes: Early Accep
+    
   - title: "EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models"
     authors: <strong>Yupeng Chen</strong>, Penglin Chen, Xiaoyu Zhang, Yixian Huang, Qian Xie
     conference_short: AAAI
