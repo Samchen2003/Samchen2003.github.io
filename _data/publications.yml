@@ -8,7 +8,7 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/dfbench.png
-    # notes: Early Accept
+    notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
