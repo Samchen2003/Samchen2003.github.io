@@ -13,6 +13,7 @@ I am a DPhil student at Torr Vision Group, University of Oxford, supervised by D
 
 ## News
 
+- **[Jan. 2026]** I receive a research grant of ~ £10,000 from Christ Church College together with Dr. Jialin Yu to investigate the safety of voice agents. 
 - **[Oct. 2025]** I start my DPhil in Engineering Science at TVG.
 - **[Jun. 2025]** I receive a one-year scholarship from SUISF.
 - **[May. 2025]** I graduated from CUHK-Shenzhen with GPA ranking 2%.
