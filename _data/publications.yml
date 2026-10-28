@@ -1,11 +1,27 @@
 main:
 
-  - title: "DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection"
-    authors: Kangran Zhao*, <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
-    conference_short: Under Review
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2510.22622
-    image: ./assets/img/dfbench.png
+
+  - title: "D2-Monitor: Dynamic Safety Monitoring for Diffusion LLMs via Hesitation Signals"
+    authors: Aoxi Liu*, <strong>Yupeng Chen*</strong>, James Oldfield, Guanzhe Hong, Junchi Yu, Baoyuan Wu, Philip Torr, Adel Bibi
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2605.25893
+    image: ./assets/img/dmonitorfig.pdf
+
+
+  - title: "The Alignment Curse: Modality Alignment Supercharges Audio Attacks via Text Transfer"
+    authors: <strong>Yupeng Chen</strong>, Junchi Yu, Aoxi Liu, Baoyuan Wu, Philip Torr, Adel Bibi 
+    conference_short: NeurIPS
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2602.02557
+    image: ./assets/img/alignmentcurse.pdf
+
+  # - title: "DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection"
+  #   authors: Kangran Zhao*, <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yize Chen, Weinan Guan, Baicheng Chen, Chengzhe Sun, Soumyya Kanti Datta, Qingshan Liu, Siwei Lyu, Baoyuan Wu (*Equal Contribution)
+  #   conference_short: Under Review
+  #   conference: Under Review
+  #   pdf: https://arxiv.org/abs/2510.22622
+  #   image: ./assets/img/dfbench.png
 
     
   - title: "EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models"
@@ -16,10 +32,10 @@ main:
     image: ./assets/img/aaai25.png
 
 
-  - title: "Beyond English: Unveiling Multilingual Bias in LLM Copyright Compliance"
-    authors: <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yixian Huang, Qian Xie (*Equal Contribution)
-    conference_short: Preprint
-    conference: Preprint, 2025.
-    pdf: https://arxiv.org/pdf/2503.05713
-    image: ./assets/img/preprint.png
+  # - title: "Beyond English: Unveiling Multilingual Bias in LLM Copyright Compliance"
+  #   authors: <strong>Yupeng Chen*</strong>, Xiaoyu Zhang*, Yixian Huang, Qian Xie (*Equal Contribution)
+  #   conference_short: Preprint
+  #   conference: Preprint, 2025.
+  #   pdf: https://arxiv.org/pdf/2503.05713
+  #   image: ./assets/img/preprint.png
 
