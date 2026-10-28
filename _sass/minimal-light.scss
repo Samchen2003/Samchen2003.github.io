@@ -596,7 +596,12 @@ footer {
   font-family: monospace;
 }
 .news-scroll {
-  max-height: 8em;
+  max-height: 14em;
   overflow-y: auto;
   padding-right: 8px;
+  margin-bottom: 30px;
+}
+
+.news-scroll ul {
+  margin-bottom: 0;
 }
