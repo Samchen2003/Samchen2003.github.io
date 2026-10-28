@@ -13,6 +13,8 @@ I am a second-year DPhil student in the Torr Vision Group at the University of O
 
 ## News
 
+<div class="news-scroll" markdown="1">
+
 - **[Oct. 2026]** I passed the transfer of status exam at Oxford. 
 - **[Sept. 2026]** Our paper about cross-modal attack transfer is accepted to NeurIPS 2026.  
 - **[Jan. 2026]** I receive a research grant of ~ £10,000 from Christ Church College together with Dr. Jialin Yu to investigate the safety of voice agents.   
@@ -21,6 +23,8 @@ I am a second-year DPhil student in the Torr Vision Group at the University of O
 - **[May. 2025]** I graduated from CUHK-Shenzhen with GPA ranking 2%.
 - **[Jan. 2025]** I receive AAAI 2025 Student Scholarship ($2000) to attend AAAI 2025.
 - **[Dec. 2024]** Our paper about benchmarking video editing models is accepted to AAAI 2025.
+
+</div>
 
 
 {% include_relative _includes/publications.md %}
