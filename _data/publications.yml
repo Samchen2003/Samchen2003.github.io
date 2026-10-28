@@ -1,8 +1,15 @@
 main:
 
+  - title: "Scientific reasoning does not reliably translate into scientific forecasting in frontier AI"
+    authors: Sean Wu*, Pan Lu*, <strong>Yupeng Chen*</strong>, Jonathan Bragg, Yutaro Yamada, Peter Clark, David Clifton, Philip Torr, James Zou, Junchi Yu (*Equal Contribution)
+    conference_short: Under Review
+    conference: Under Review, 2026.
+    pdf: https://arxiv.org/abs/2605.22681
+    image: ./assets/img/CUSP_Fig_1.drawio.png
+
 
   - title: "D2-Monitor: Dynamic Safety Monitoring for Diffusion LLMs via Hesitation Signals"
-    authors: Aoxi Liu*, <strong>Yupeng Chen*</strong>, James Oldfield, Guanzhe Hong, Junchi Yu, Baoyuan Wu, Philip Torr, Adel Bibi
+    authors: Aoxi Liu*, <strong>Yupeng Chen*</strong>, James Oldfield, Guanzhe Hong, Junchi Yu, Baoyuan Wu, Philip Torr, Adel Bibi (*Equal Contribution)
     conference_short: Preprint
     conference: Preprint, 2026.
     pdf: https://arxiv.org/abs/2605.25893
